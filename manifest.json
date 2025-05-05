@@ -1,0 +1,20 @@
+{
+  "name": "HM Imóveis Formulário",
+  "short_name": "HM Imóveis",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "Formulário digital da HM Imóveis",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
